@@ -1,0 +1,24 @@
+AddCharModel(107, 20001, "fam1.dff", "fam1.txd");
+AddCharModel(107, 20002, "fam2.dff", "fam2.txd");
+AddCharModel(107, 20003, "fam3.dff", "fam3.txd");
+AddCharModel(107, 20004, "fam4.dff", "fam4.txd");
+AddCharModel(107, 20005, "fam5.dff", "fam5.txd");
+AddCharModel(107, 20006, "fam6.dff", "fam6.txd");
+AddCharModel(107, 20007, "fam7.dff", "fam7.txd");
+AddCharModel(107, 20008, "fam8.dff", "fam8.txd");
+AddCharModel(107, 20009, "ballas1.dff", "ballas1.txd");
+AddCharModel(107, 20010, "ballas2.dff", "ballas2.txd");
+AddCharModel(107, 20011, "ballas3.dff", "ballas3.txd");
+AddCharModel(107, 20012, "ballas4.dff", "ballas4.txd");
+AddCharModel(107, 20013, "ballas4.dff", "ballas4.txd");
+AddCharModel(107, 20014, "ballas5.dff", "ballas5.txd");
+AddCharModel(107, 20015, "ballas6.dff", "ballas6.txd");
+AddCharModel(107, 20016, "ballas7.dff", "ballas7.txd");
+AddCharModel(107, 20017, "ballas8.dff", "ballas8.txd");
+AddCharModel(107, 20018, "ballas9.dff", "ballas9.txd");
+
+
+
+
+
+

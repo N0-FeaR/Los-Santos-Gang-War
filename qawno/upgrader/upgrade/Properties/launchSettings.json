@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CallbackUpgrade": {
+      "commandName": "Project",
+      "commandLineArgs": "--scans tags ../../../tests/ee"
+    }
+  }
+}
